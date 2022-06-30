@@ -1,3 +1,3 @@
 # Instagram-DIO
 
-## Página inicial base do instagram, exercício da DIO.
+#### Página inicial base do instagram, exercício da DIO.
